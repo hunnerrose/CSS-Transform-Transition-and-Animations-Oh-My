@@ -25,6 +25,7 @@ nav {
 
 .hamburger:hover ~ nav {
   opacity: 1;
+  animation-duration: 3s; 
 }
 
 @keyframes top {
